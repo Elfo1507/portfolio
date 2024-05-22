@@ -1,9 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
 
-:root{
-    main-color: #3d00cc;
+:root {
+  --main-color: #3d00cc;
 }
 
-body{
-    font-family: 'Roboto Mono', monospace;
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+html::-webkit-scrollbar {
+  width: 3px;
+}
+
+html::-webkit-scrollbar-track {
+  background: var("--main-color");
+}
+
+html::-webkit-scrollbar-thumb {
+  background: black;
+  width: 1px;
+}
+
+html::-webkit-scrollbar-thumb:hover {
+  background: black;
 }

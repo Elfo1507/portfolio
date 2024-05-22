@@ -5,7 +5,7 @@ export const Intro = styled.div`
   justify-content: flex-start;
   align-items: center;
   flex-direction: row;
-  padding: 100px;
+  padding: 50px 100px;
   z-index: 2;
   color: white;
   h1 {
