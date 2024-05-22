@@ -1,0 +1,7 @@
+Linguagens de Programação: Javascript, Typescript, Java, Python, C++. 2 anos de experiência e trabalho contínuo com typescript e um ano de experiência contínua em Java, criando grandes projetos com ambas linguagens. Python utilizado para utilidades e pequenos projetos ao longo dos últimos 3 anos. C++ usado em estudos.
+Frameworks e Bibliotecas: React, Node.js, Express, Spring Boot, Django. Dois anos de trabalho e experiencia com grandes projetos usando React e Node.js. Um ano de experiencia com grandes projetos usando Java Spring Boot. Estudos em Express e Django
+Banco de Dados: PostgreSQL, SQLite
+Ferramentas de BI: Experiência em análise de dados e criação de dashboards sucintas, legíveis e eficientes a partir de grandes bases de dados.
+Cloud: Google Cloud Platform (em aprendizado), AWS (em aprendizado)
+Controle de Versão: Git (Github, Bitbucket)
+Metodologias: Programação Orientada a Objetos (POO), Scrum. Experiencia de 2 anos em ambos, impactando muito positivamente em entregas grandes e contínuas e trabalho em equipe, além da criação de código limpo e eficiente.

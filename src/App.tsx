@@ -1,16 +1,13 @@
-import { BgParticles } from "./components/bg particles/bgParticles"
-import { IntroAnimated } from "./components/intro/intro"
-import { Summary } from "./components/summary/summary"
+import { BgParticles } from "./components/bg particles/bgParticles";
+import { GeneralContainer } from "./components/general/generalContainer";
 
 function App() {
-
   return (
     <>
       <BgParticles />
-      <IntroAnimated/>
-      <Summary/>
+      <GeneralContainer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

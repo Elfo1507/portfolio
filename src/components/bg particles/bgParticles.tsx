@@ -79,7 +79,7 @@ export const BgParticles = () => {
           density: {
             enable: true,
           },
-          value: 500,
+          value: 200,
         },
         opacity: {
           value: 0.3,

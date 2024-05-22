@@ -33,21 +33,25 @@ export const Intro = styled.div`
   }
 
   @keyframes words {
-    1%,
-    25% {
-      content: "Frontend";
+    0%,
+    20% {
+      content: "Desenvolvedor Frontend";
     }
-    25%,
-    50% {
-      content: "Backend";
+    20%,
+    40% {
+      content: "Desenvolvedor Backend";
     }
-    50%,
-    75% {
-      content: "Fullstack";
+    40%,
+    60% {
+      content: "Desenvolvedor Fullstack";
     }
-    75%,
+    60%,
+    80% {
+      content: "Desenvolvedor de Software";
+    }
+    80%,
     100% {
-      content: "de Software";
+      content: "Analista de dados";
     }
   }
 `;
