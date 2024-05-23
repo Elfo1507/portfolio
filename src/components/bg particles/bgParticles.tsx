@@ -69,7 +69,7 @@ export const BgParticles = () => {
           direction: MoveDirection.none,
           enable: true,
           outModes: {
-            default: OutMode.bounce,
+            default: OutMode.out,
           },
           random: false,
           speed: 3,
@@ -79,7 +79,7 @@ export const BgParticles = () => {
           density: {
             enable: true,
           },
-          value: 200,
+          value: 500,
         },
         opacity: {
           value: 0.3,

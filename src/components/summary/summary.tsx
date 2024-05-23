@@ -21,7 +21,7 @@ export const Summary = () => {
         <h2>Educação</h2>
         <p>
           Graduando no bacharelado em Sistemas de Informação na Universidade
-          Federal de Minas Gerais, tendo iniciado em 2022. Lá ele possuiu
+          Federal de Minas Gerais, tendo iniciado em 2022. Lá ele adquiriu
           aprendizado em algoritmos, estruturas de dados, usabilidade de
           sistemas, interação com usuário, administração, economia e etc.
           Participou em um projeto de extensão sobre desenvolvimento de um

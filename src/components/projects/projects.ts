@@ -1,7 +1,7 @@
 import { DrawerGithubContent } from "../drawer/drawer";
 
 export const projects: DrawerGithubContent = {
-    mainTitle: "Projetos Públicos Github",
+    mainTitle: "Projetos",
     items: [
         {
         title: "Portfolio",

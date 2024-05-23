@@ -34,4 +34,18 @@ export const SummaryStyles = styled.div`
     flex-direction: column;
     gap: 10px;
   }
+
+  @media (max-width: 768px) {
+    padding: 20px;
+    #summaryHelp {
+      font-size: .5rem;
+    }
+    h2 {
+      font-size: 1rem;
+    }
+    p {
+      font-size: 1rem;
+      text-align: center;
+    }
+  }
 `;

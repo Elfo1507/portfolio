@@ -12,7 +12,9 @@ export const GenericDrawerBottom = (props: GenericDrawerBottomProps) => {
 
   return (
     <DrawerBottomStyles pos={pos}>
-      <h3>{content.mainTitle}</h3>
+      <div id="title">
+        <h3>{content.mainTitle}</h3>
+      </div>
       <div>
         {content.titles.map((item) => {
           return (

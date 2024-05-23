@@ -9,7 +9,7 @@ export const Intro = styled.div`
   z-index: 2;
   color: white;
   h1 {
-    font-size: 50px;
+    font-size: 4rem;
     font-weight: 500;
     z-index: 2;
   }
@@ -24,6 +24,15 @@ export const Intro = styled.div`
     border-right: 0.15rem solid white;
     overflow: hidden;
     animation: words 10s infinite, blink 1s step-end infinite;
+  }
+
+  @media (max-width: 768px){
+    padding: 10px;
+    h1 {
+      font-size: 1.3rem;
+      display: flex;
+      flex-direction: column;
+    }
   }
 
   @keyframes blink {
